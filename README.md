@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antarip Debgupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/antarip_d" target="blank"><img src="https://img.shields.io/twitter/follow/antarip_d?logo=twitter&style=for-the-badge" alt="antarip_d" /></a> </p>
 
