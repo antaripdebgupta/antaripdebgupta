@@ -33,4 +33,4 @@
 ---
 
 ### 🤝 Let's Collaborate!
-I’m open to working on exciting projects that push the boundaries of web development. Let's innovate together!  
+I’m open to working on exciting projects that push the boundaries of web development and open source. Let’s innovate and build impactful solutions together! 
