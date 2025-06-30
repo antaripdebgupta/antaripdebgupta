@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antarip Debgupta</h1>
-<h3 align="center">A Passionate Frontend Developer 🚀</h3>
+<h3 align="center">A Passionate Frontend Developer & Open Source Contributor 🚀</h3>
 
 <p align="center">
   Transforming ideas into delightful digital experiences with a focus on performance, scalability, and design excellence.
