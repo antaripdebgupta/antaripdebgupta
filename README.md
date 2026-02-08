@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Antarip Debgupta</h1>
-<h3 align="center">A Passionate Frontend Developer & Open Source Contributor 🚀</h3>
+<h1 align="center">Hi 👋, I'm Antarip</h1>
+<h3 align="center">Frontend & Product-Focused Engineer | Open Source Contributor</h3>
 
 <p align="center">
   Transforming ideas into delightful digital experiences with a focus on performance, scalability, and design excellence.
@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,scss,firebase,appwrite,astro,bash" alt="Tech Stack Icons" />
+ <img src="https://skillicons.dev/icons?i=react,nextjs,vue,mongodb,nodejs,firebase,appwrite,supabase,githubactions,fastapi" alt="Updated Tech Stack" />
 </p>
 
 ---
