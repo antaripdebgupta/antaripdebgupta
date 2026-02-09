@@ -21,18 +21,6 @@
 
 ---
 
-### Connect with Me:
-<p align="center">
-  <a href="https://linkedin.com/in/antaripd" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/antarip_d" target="_blank">
-    <img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)" />
-  </a>
-</p>
-
----
-
 ### Open to!
 Contract work • Open source collaborations • Freelance projects focused on frontend performance, integrations, or developer tooling
 
