@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antarip</h1>
-<h3 align="center">Frontend & Product-Focused Engineer | Open Source Contributor</h3>
+<h3 align="center">Frontend Engineer | Open Source Contributor</h3>
 
 <p align="center">
   Transforming ideas into delightful digital experiences with a focus on performance, scalability, and design excellence.
@@ -7,20 +7,21 @@
 
 ---
 
-- 🔭 **Currently Building:** Sleek, modern UIs with <strong>React</strong> and <strong>Next.js</strong>.
-- 🌱 **Learning Focus:** Deep diving into <strong>Next.js</strong> and exploring modern web architectures.
-- 💡 **Passionate About:** Tailoring cutting-edge frontend solutions and integrating seamless backend services.
+- **Production-ready apps** with React, Next.js, and modern backends
+- **Open source contributions** focused on UI features, CI improvements, and refactoring
 
 ---
 
-### 🛠️ Tech Stack:
+### Tech Stack:
 <p align="center">
  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,mongodb,nodejs,firebase,appwrite,supabase,githubactions,fastapi" alt="Updated Tech Stack" />
 </p>
 
+**What I focus on:** Clean architecture • Performance optimization • Code reviews • CI/CD workflows
+
 ---
 
-### 🌐 Connect with Me:
+### Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/antaripd" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -32,5 +33,7 @@
 
 ---
 
-### 🤝 Let's Collaborate!
-I’m open to working on exciting projects that push the boundaries of web development and open source. Let’s innovate and build impactful solutions together! 
+### Open to!
+Contract work • Open source collaborations • Freelance projects focused on frontend performance, integrations, or developer tooling
+
+**Looking for:** Teams that value clean code, not just working code.
